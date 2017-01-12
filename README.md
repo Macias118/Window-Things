@@ -1,7 +1,7 @@
 # Window-Things
 Todo Application
 
-The main objective of the application:
+The main objective of this application:
 
 - adding and deleting new tasks we can do as fast as possible, using favourite, remembered shortcuts
 
